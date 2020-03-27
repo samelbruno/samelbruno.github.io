@@ -1,0 +1,77 @@
+
+ul {
+  background-color: yellow;
+}
+
+li {
+  border: 20px yellow;
+  border-radius: 45px 45px 45px 45px;
+  font-size: 40px;
+  display: inline;
+  margin: 20px;
+  background color: orange
+}
+body {
+  color: blue;
+  background-image: url("https://femkekamps.nl/blog/wp-content/uploads/2015/06/Zomerse-wallpaper-1.png");
+  font-family: Verdana
+}
+p {
+  font-style: italic;
+  font-size: 100px;
+  font-variant: normal;
+  text-align: justify;
+  line-height: 130%;
+  font-family:Georgia
+  color: blue
+}
+tr {
+  color: blue
+}
+h1{
+  text-align : right;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: blue
+}
+table {
+  border: 10px solid yellow;
+  background-color: #00FFFF;
+  color: red
+}
+h2{
+  margin: 15px;
+  padding: 30px;
+  text-align: center;
+  border: 20px yellow double;
+  letter-spacing: 50px;
+  border-radius: 45px 45px 45px 45px;
+  font-size: 50px;
+  word-spacing: 50px;
+  font-variant: small-caps;
+  color: blue
+  font-family: Verdana
+}
+td{
+  font-weight: bold;
+  text-align: justify;
+  color: blue
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: blue;
+}
+a:hover {
+  color: #00CCFF;
+}
+a:active {
+  color: red;
+}
+a {
+  text-decoration: none;
+}
+img {
+  border: 10px;
+  border-color: yellow;
+}
