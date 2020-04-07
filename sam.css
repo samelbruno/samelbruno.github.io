@@ -3,7 +3,7 @@ ul {
   background-color: yellow;
 }
 
-li {
+ul.menu li {
   border: 20px yellow;
   border-radius: 45px 45px 45px 45px;
   font-size: 40px;
@@ -75,3 +75,10 @@ img {
   border: 10px;
   border-color: yellow;
 }
+ul.lijst {
+  background-color: #eabfff
+}
+ul.lijst li{
+  border: 4px solid black;
+}
+
